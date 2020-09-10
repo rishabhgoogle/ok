@@ -1,2 +1,10 @@
-Name= input ()
-Print(f"{name} you are welcome")
+Import random
+Name= input ('username')
+Print(f"hello { name}")
+Age= input('age')
+Print(f"your age is {age}
+Your lucky no.is 
+Range.randint(2,100)
+Print (range)
+
+
